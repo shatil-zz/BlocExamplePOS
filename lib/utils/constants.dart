@@ -1,0 +1,36 @@
+
+const List<Map<String, dynamic>> menuItems = [
+  {"name": "Chicken (Grilled)", "price": 17.0},
+  {"name": "Chicken Tempura", "price": 17.0},
+  {"name": "Fried Tofu", "price": 15.0},
+  {"name": "Salmon", "price": 16.0},
+  {"name": "Shrimp (Tempura)", "price": 17.0},
+  {"name": "Steak", "price": 18.0},
+  {"name": "Steak meal1", "price": 18.0},
+  {"name": "Steak meal3", "price": 18.0},
+  {"name": "Steak meal3", "price": 18.0},
+  {"name": "Steak meal4", "price": 18.0},
+  {"name": "Steak meal5", "price": 18.0},
+  {"name": "Steak meal6", "price": 18.0},
+  {"name": "Steak meal7", "price": 18.0},
+  {"name": "Steak meal8", "price": 18.0},
+];
+
+const List<Map<String, dynamic>> tables = [
+  {"id": 1, "name": "T 1"},
+  {"id": 2, "name": "T 2"},
+  {"id": 3, "name": "T 3"},
+  {"id": 4, "name": "T 4"},
+  {"id": 5, "name": "T 5"},
+  {"id": 6, "name": "T 6"},
+  {"id": 7, "name": "T 7"},
+  {"id": 8, "name": "T 8"},
+  {"id": 9, "name": "T 9"},
+  {"id": 10, "name": "T 10"},
+  {"id": 11, "name": "T 11"},
+  {"id": 12, "name": "T 12"},
+  {"id": 13, "name": "T 13"},
+  {"id": 14, "name": "T 14"},
+  {"id": 15, "name": "T 15"},
+  {"id": 16, "name": "T 16"},
+];

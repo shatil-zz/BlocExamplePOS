@@ -1,0 +1,45 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    prefer_single_quotes: error
+    missing_required_param: error
+    file_names: error
+    package_names: error
+    unnecessary_new: error
+    unused_import: warning
+    prefer_const_declarations: warning
+    prefer_const_constructors: warning
+    constant_identifier_names: warning
+    unchecked_use_of_nullable_value: warning
+    lines_longer_than_80_chars: warning
+    avoid_unnecessary_containers: warning
+    camel_case_extensions: warning
+    camel_case_types: warning
+    no_literal_bool_comparisons: warning
+    prefer_collection_literals: warning
+    curly_braces_in_flow_control_structures: warning
+    cancel_subscriptions: warning
+    avoid_function_literals_in_foreach_calls: warning
+    await_only_futures: warning
+    prefer_conditional_assignment: warning
+    avoid_single_cascade_in_expression_statements: warning
+    always_put_required_named_parameters_first: warning
+    avoid_multiple_declarations_per_line: warning
+    avoid_bool_literals_in_conditional_expressions: warning
+    always_put_control_body_on_new_line: warning
+    avoid_print: warning
+    avoid_empty_else: warning
+    close_sinks: warning
+    no_duplicate_case_values: warning
+    no_logic_in_create_state: warning
+    avoid_init_to_null: warning
+    avoid_redundant_argument_values: warning
+
+
+linter:
+  rules:
+    empty_catches: false
+    use_key_in_widget_constructors: false
+    iterable_contains_unrelated_type: false
+    constant_identifier_names: false
+
